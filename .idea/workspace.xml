@@ -35,8 +35,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Try and Except">
-    <configuration name="For Loops" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Practice2">
+    <configuration name="Functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,7 +48,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python - Basiscs/For Loops.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python - Basiscs/Functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Try and Except" />
         <item itemvalue="Python.Practice2" />
+        <item itemvalue="Python.Functions" />
+        <item itemvalue="Python.Try and Except" />
         <item itemvalue="Python.While Loops" />
         <item itemvalue="Python.Practice" />
-        <item itemvalue="Python.For Loops" />
       </list>
     </recent_temporary>
   </component>
