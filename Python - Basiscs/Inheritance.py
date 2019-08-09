@@ -48,3 +48,6 @@ class childclass(plmclass):
 c = childclass()
 c.childclassFunction()
 c.plmFunction()
+
+
+# If we put a def test(self) same on both classes the second one will overwrite the first one, and will return the second value
