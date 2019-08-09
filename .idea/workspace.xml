@@ -35,7 +35,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.In-Built Functions">
+  <component name="RunManager" selected="Python.Practice2">
     <configuration name="Functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -143,8 +143,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.In-Built Functions" />
         <item itemvalue="Python.Practice2" />
+        <item itemvalue="Python.In-Built Functions" />
         <item itemvalue="Python.Functions" />
         <item itemvalue="Python.Try and Except" />
         <item itemvalue="Python.While Loops" />
